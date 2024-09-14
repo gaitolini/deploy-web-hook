@@ -1,4 +1,4 @@
-# Criando o Servidor de Webhook 🚀
+# Criando um Servidor de Webhook 🚀
 Vamos criar um servidor Go que ouve as requisições HTTP no caminho /deploy e executa o script de deploy.
 
 Código do Servidor de Webhook em Go:
@@ -35,3 +35,5 @@ func main() {
 }
 
 ~~~~
+
+# Esse código irá rodar em uma imagem docker 🐋
